@@ -9,7 +9,7 @@ To run this chatbot, you will need to have the following installed:
     3. OpenAI API key
 
 To install Streamlit, you can run the following command:
-    1. pip install streamlit
+    `pip install streamlit`
 
 ## Running the Chatbot
 To run the chatbot, you will need to set your OpenAI API key. You can do this by setting it as a secret in Streamlit. Once you have set your API key, you can run the chatbot by running the following command:
