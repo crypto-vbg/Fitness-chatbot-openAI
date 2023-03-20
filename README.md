@@ -14,7 +14,7 @@ To install Streamlit, you can run the following command:
 ## Running the Chatbot
 To run the chatbot, you will need to set your OpenAI API key. You can do this by setting it as a secret in Streamlit. Once you have set your API key, you can run the chatbot by running the following command:
 
-    2. streamlit run fitness_chatbot.py
+    `streamlit run fitness_chatbot.py`
 This will start the chatbot in your web browser. You can then interact with the chatbot by clicking on the buttons for exercise routine, diet plan, or fitness tips, and following the prompts. The chatbot will generate a response based on your input and display it in the chat history.
 
 You can view the chat history by scrolling down the page. The chat history includes both the user's input and the chatbot's generated response.
